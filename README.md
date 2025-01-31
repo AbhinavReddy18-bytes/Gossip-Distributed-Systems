@@ -3,10 +3,6 @@
 ## Project Description
 This project aims to implement and analyze the convergence of Gossip and Push-Sum algorithms for group communication and sum computation respectively. The implementation is built using the actor model in Pony programming language, utilizing its asynchronous features.
 
-### Team Members
-- **Pavan Vishnu Sai Bestha** (UFID: 3804-3186)
-- **Abhinav Reddy Pannala** (UFID: 7031-4901)
-
 ## What is Working
 - **Algorithm Implementations**: Both Gossip and Push-Sum algorithms are fully implemented and functional.
   - Gossip algorithm successfully propagates rumors until all nodes have received the message a specified number of times.
@@ -54,5 +50,4 @@ This command runs the Gossip algorithm with 100 nodes arranged in a line topolog
 
 ## Contact
 For questions or further information, please contact:
-- Pavan Vishnu Sai Bestha: pavanvishnbestha@ufl.edu
 - Abhinav Reddy Pannala: pannala.abhinav@example.com
