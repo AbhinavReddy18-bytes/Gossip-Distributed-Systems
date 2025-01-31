@@ -50,4 +50,4 @@ This command runs the Gossip algorithm with 100 nodes arranged in a line topolog
 
 ## Contact
 For questions or further information, please contact:
-- Abhinav Reddy Pannala: pannala.abhinav@example.com
+- Abhinav Reddy Pannala: pannala.abhinav@ufl.com
